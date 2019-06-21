@@ -24,6 +24,3 @@ for i in range(2, n, 1):
         print(x, y)
         
 print(count)
-# 3, 17
-# 7, 13
-# 9, 11
